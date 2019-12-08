@@ -1,6 +1,18 @@
 nxml2txt
 ========
 
+Distributional Semantics Resources for Biomedical Text Processing
+Sampo Pyysalo1 Filip Ginter2 Hans Moen3 Tapio Salakoski2 Sophia Ananiadou1
+1. National Centre for Text Mining and School of Computer Science
+University of Manchester, UK
+2. Department of Information Technology
+University of Turku, Finland
+3. Department of Computer and Information Science
+Norwegian University of Science and Technology, Norway
+sampo@pyysalo.net ginter@cs.utu.fi hans.moen@idi.ntnu.no
+tapio.salakoski@utu.fi sophia.ananiadou@manchester.ac.uk
+========
+
 NLM .nxml to text format conversion 
 
 Usage:
